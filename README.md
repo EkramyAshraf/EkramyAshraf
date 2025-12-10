@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ekramy Ashraf, a passionate Backend Developer focusing on NestJS, Express.<br>Currently, I’m working on:<br>- Building APIs using NestJS and Express<br><br><br>I’m looking to collaborate on:<br>- Open-source backend projects<br>- RESTful or GraphQL API projects<br>- Real-world projects using NestJS and Express<br><br>I’m looking for help with:<br>- Advanced NestJS patterns and best practices<br><br>I’m currently learning:<br>- Advanced NestJS modules and microservices<br>- Redis caching and session management<br>- Authentication and authorization best practices (JWT, OAuth2.0)<br><br>Ask me about:<br>- Backend development<br>- API design and architecture<br>- Projects like Natours and Ecommerce APIs<br>- Redis, PostgreSQL, NestJS, and Express<br><br>Fun facts:<br>- I find debugging tricky backend issues more satisfying than solving puzzles.<br>- Writing clean backend code gives me a real sense of achievement.<br>
-
+Hi, I’m Ekramy Ashraf, a passionate Backend Developer focusing on NestJS, Express.<br>Currently, I’m working on:<br>- Building APIs using NestJS and Express<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ekramy-ashraf-689334120) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekramyashraf@gmail.com) 
